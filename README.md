@@ -52,11 +52,17 @@ When a user inputs a message into the app, the app returns classification result
 # Files
 
 This repository contains four files:
+
 1- Readme file, which contains a short description of the project and a summary of the results.
+
 2- messages.csv file, which is one of the datasets provided by Figure Eight as csv format.
+
 3- categories.csv file, which is one of the datasets provided by Figure Eight as csv format.
+
 4- ETL Pipeline Preparation .ipynb, which contains the Python source code of ETL pipeline.
+
 5- ML Pipeline Preparation .ipynb, which contains the Python sourse code of ML Pipeline.
+
 6- 
 
 

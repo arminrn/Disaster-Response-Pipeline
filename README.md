@@ -43,6 +43,7 @@ Outputs results on the test set
 Exports the final model as a pickle file
 
 3- Flask Web App
+
 When a user inputs a message into the app, the app returns classification results for all 36 categories.
 
 

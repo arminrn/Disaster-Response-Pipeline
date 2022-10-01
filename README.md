@@ -63,11 +63,15 @@ This repository contains four files:
 
 5- ML Pipeline Preparation .ipynb, which contains the Python sourse code of ML Pipeline.
 
-6- 
+6- Workspace foulder which consists of web app files
+
 
 
 # Instruction
 
+![Capture](https://user-images.githubusercontent.com/94007036/193430658-d4075f7c-999a-4cbc-8eba-cc1f6bfc6ad3.jpeg)
+
+![Capture2](https://user-images.githubusercontent.com/94007036/193430665-d07d92ba-ac02-4a58-a192-94e8285a239c.jpeg)
 
 Run the following commands in the project's root directory to set up your database and model.
 
@@ -76,6 +80,11 @@ To run ETL pipeline that cleans data and stores in database python data/process_
 To run ML pipeline that trains classifier and saves python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
 
 Run the following command in the app's directory to run your web app. python run.py
+
+
+# Screenshots
+
+
 
 # Acknowledgement
 

@@ -69,10 +69,6 @@ This repository contains four files:
 
 # Instruction
 
-![Capture](https://user-images.githubusercontent.com/94007036/193430658-d4075f7c-999a-4cbc-8eba-cc1f6bfc6ad3.jpeg)
-
-![Capture2](https://user-images.githubusercontent.com/94007036/193430665-d07d92ba-ac02-4a58-a192-94e8285a239c.jpeg)
-
 Run the following commands in the project's root directory to set up your database and model.
 
 To run ETL pipeline that cleans data and stores in database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
@@ -84,6 +80,9 @@ Run the following command in the app's directory to run your web app. python run
 
 # Screenshots
 
+![Capture](https://user-images.githubusercontent.com/94007036/193430658-d4075f7c-999a-4cbc-8eba-cc1f6bfc6ad3.jpeg)
+
+![Capture2](https://user-images.githubusercontent.com/94007036/193430665-d07d92ba-ac02-4a58-a192-94e8285a239c.jpeg)
 
 
 # Acknowledgement

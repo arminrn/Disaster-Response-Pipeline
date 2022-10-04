@@ -80,9 +80,10 @@ Run the following command in the app's directory to run your web app. python run
 
 # Screenshots
 
-![Capture](https://user-images.githubusercontent.com/94007036/193430658-d4075f7c-999a-4cbc-8eba-cc1f6bfc6ad3.jpeg)
+![Screenshot1](https://user-images.githubusercontent.com/94007036/193726436-8200e86d-cc46-407c-a2e0-7050f39fc350.png)
 
-![Capture2](https://user-images.githubusercontent.com/94007036/193430665-d07d92ba-ac02-4a58-a192-94e8285a239c.jpeg)
+![Screenshot2](https://user-images.githubusercontent.com/94007036/193726453-2d96de28-8546-4239-9693-39c8422e3fe0.png)
+
 
 
 # Acknowledgement

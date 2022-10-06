@@ -63,7 +63,7 @@ This repository contains four files:
 
 5- ML Pipeline Preparation .ipynb, which contains the Python sourse code of ML Pipeline.
 
-6- Workspace foulder which consists of web app files
+6- Data, Model, and App file foulders which consists of web app files
 
 
 

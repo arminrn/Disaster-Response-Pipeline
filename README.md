@@ -66,7 +66,7 @@ This repository contains four files:
 6- Data, Model, and App file foulders which consists of web app files
 
 
-#Instructions
+# Instructions
 
 Run the following commands in the project's root directory to set up your database and model.
 
